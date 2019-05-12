@@ -2,7 +2,7 @@
 
 # todo: HTTPS
 
-yum install httd -y
+yum install httpd -y
 
 setsebool httpd_read_user_content 1
 
