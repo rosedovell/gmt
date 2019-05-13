@@ -1,0 +1,7 @@
+A Metal Scale: A C D D# E G G# A
+B Metal Scale: B D E F F# A A# B
+C Metal Scale: C D# F F# G A# B C
+D Metal Scale: D F G G# A C C# D
+E Metal Scale: E G A A# B D D# E
+F Metal Scale: F G# A# B C D# E F
+G Metal Scale: G A# C C# D F F# G
